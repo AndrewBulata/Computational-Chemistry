@@ -1,4 +1,4 @@
-# Computational-Chemistry
+# Computational Chemistry
 
 I have always been fascinated by the concept of "seeing atoms." I recall my mom once telling me when I was around 12 or 13, "how amazing it would be if we could see an atom..." That comment stayed with me, and by the time I was in university, my response was, "we have Atomic Force Microscopy (AFM)!" However, when we look at an AFM image, the atoms appear static. The landscape is still, nothing is moving. It falls short of the full picture because it only captures a moment in time. What do atoms do when we’re not observing them? This question drives the motivation behind this section. The feeling that "it doesn't quite cut it" inspires me to play some music and set things in motion.
 
