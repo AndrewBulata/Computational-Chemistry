@@ -4,7 +4,7 @@ I have always been fascinated by the concept of "seeing atoms." I recall my mom 
 
 Here, I have written code to visually simulate the movement of particles under various conditions and assumptions, from ideal gases to real gases, from nuclear fission to black holes. I present my progress on this intricate journey of making atoms move in accordance with the laws of chemistry and physics.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Fkinetic-theory-of-gases-2699426&psig=AOvVaw3gKItLgnQZCvMq8eMF58mU&ust=1719270185236000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiZxNvq8oYDFQAAAAAdAAAAABAk![image](https://github.com/AndrewBulata/Computational-Chemistry/assets/64040990/5ba40a68-322d-42e4-abd8-2edb9f77d01b)
+![gases](https://github.com/AndrewBulata/Computational-Chemistry/assets/64040990/37d1c475-016d-48ec-b93d-455414217006)
 
 ### Installation requirements
 To run these code, you need to install the following Python modules:
