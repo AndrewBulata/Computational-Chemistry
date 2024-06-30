@@ -14,3 +14,9 @@ To run these code, you need to install the following Python modules:
 - math
 
 Ensure these modules are installed in your Python environment to execute the simulation successfully.
+
+## Controls
+
+To increase/decrease the temperature, press the up or down arrow on your keyboard.
+
+I recommend running this in PyCharm as it provides a smoother window-closing experience.
