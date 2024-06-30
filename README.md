@@ -11,17 +11,16 @@ Here, I have written code to visually simulate the movement of particles under v
 ---
 ## 1. Phase transition simulation
 
-### Installation requirements
-To run these programs, you need to install the following Python modules:
 
-- pygame
-- random
-- math
+This Python project simulates phase transitions of Xenon atoms using the Pygame library. The atoms transition between solid, liquid, and gas states as the temperature is adjusted. 
 
-Ensure these modules are installed in your Python environment to execute the simulation successfully.
+#### Features:
+- **Visual Representation**: Displays Xenon atoms in different states with distinct colors.
+- **Temperature Control**: Use the up and down arrow keys to increase or decrease the temperature.
+- **Real-Time Updates**: Adjusts the movement and state of atoms in real-time based on temperature.
+- **Entropy Calculation**: Calculates and displays the entropy of the system using the Shomate equation.
 
-## Controls
+#### Running the Simulation:
+To run the simulation, execute the script in PyCharm for a smoother window-closing experience. The simulation window will show atoms in different states based on the temperature you set.
 
-To increase/decrease the temperature, press the up or down arrow on your keyboard.
-
-I recommend running this in PyCharm as it provides a smoother window-closing experience.
+Enjoy exploring the fascinating world of phase transitions with this interactive simulation!
