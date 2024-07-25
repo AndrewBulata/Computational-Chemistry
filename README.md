@@ -21,6 +21,6 @@ This Python project simulates phase transitions of Xenon atoms using the Pygame 
 - **Entropy Calculation**: Calculates and displays the entropy of the system using the Shomate equation.
 
 #### Running the Simulation:
-To run the simulation, execute the script in PyCharm for a smoother window-closing experience. The simulation window will show atoms in different states based on the temperature you set.
+To run the simulation, execute the script in PyCharm for a smoother window-closing experience. Make sure to install **pygame**. The simulation window will show atoms in different states based on the temperature you set.
 
 Enjoy exploring the fascinating world of phase transitions with this interactive simulation!
